@@ -1,9 +1,8 @@
 <h2 align="center"> 👋 Hi, I'm drak3hft7 👋 </a> </h2> 
 <p align="center">
-   The purpose of learning is growth, and our mind, unlike our body, can continue to grow as long as we continue to live.
+   The purpose of learning is growth, and our mind, unlike our body, can continue to grow as long as we continue to live.</p>
+<p align="center">(Mortimer J. Adler)</p>
 
-   (Mortimer J. Adler)
-</p>
 
 <ul>
   <li><b>Discord: </b> <a href="#" target="_blank">drak3hft7#0751</a></li>
