@@ -6,7 +6,7 @@
 
 <ul>
   <li><b>Discord: </b> <a href="#" target="_blank">drak3hft7#0751</a></li>
-  <li><b>HackTheBox: </b> <a href="https://app.hackthebox.com/profile/252707">drak3hft7</a></li>
+  <li><b>Linktr: </b> <a href="https://linktr.ee/drak3hft7">drak3hft7</a></li>
   <li><b>Twitter: </b> <a href="https://twitter.com/drak3hft7" target="_blank">@drak3hft7</a></li>
   <li><b>Linkedin: </b> <a href="https://www.linkedin.com/in/simonepaganessi/" target="_blank">https://www.linkedin.com/in/simonepaganessi/</a></li>
 </ul>
